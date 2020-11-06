@@ -14,6 +14,8 @@ use OutOfBoundsException;
  */
 final class Version
 {
+    public const VERSION = '2.9.1';
+
     /**
      * Private constructor - this class is not meant to be instantiated
      */
